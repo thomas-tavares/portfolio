@@ -1,0 +1,8 @@
+.experiencie__box{
+    display: flex;
+    align-items: center;
+}
+
+.experiencie__box:nth-child(odd) {
+    flex-direction:row-reverse ;
+}

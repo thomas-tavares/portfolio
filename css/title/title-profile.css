@@ -1,0 +1,10 @@
+.title__profile{
+    background-image: url(../../assets/thomas-foto.jpg);
+    height: 368px;
+    width: 420px;
+    margin: 0.75rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 100%;
+}

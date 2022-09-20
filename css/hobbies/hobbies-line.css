@@ -1,0 +1,5 @@
+.hobbies__line{
+    display: flex;
+    align-items: flex-start;
+    margin: auto 60px;
+}
